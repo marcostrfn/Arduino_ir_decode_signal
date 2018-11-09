@@ -1,0 +1,18 @@
+
+ff629d arriba
+ffa857 abajo
+ffc23d derecha
+ff22dd izquierda
+ff02fd ok
+ff6897 1
+ff9867 2
+ffb04f 3
+ff30cf 4
+ff18e7 5
+ff7a85 6
+ff10ef 7
+ff38c7 8
+ff5aa5 9
+ff4ab5 0
+ff52bd *
+ff52ad #
